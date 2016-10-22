@@ -955,6 +955,7 @@
 .fa-folder-o:before {
   content: "\f114";
 }
+
 .fa-folder-open-o:before {
   content: "\f115";
 }
@@ -2010,10 +2011,7 @@
   content: "\f27a";
 }
 .fa-commenting-o:before {
-  content: "\f27b";
-}
-.fa-houzz:before {
-  content: "\f27c";
+  content: "\f27b";i class="fa fa-twitter"></i>
 }
 .fa-vimeo:before {
   content: "\f27d";
